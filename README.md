@@ -1,5 +1,8 @@
-# CompatativePrograming
-As part of one of my summer course here some of my and my colleague solutions to some of the IEEEXtreme challenges
+# Competitive Programing
+As a part of my summer studies, my friend and I took a course that has one goal:
+
+solve IEEExtreme problems. here are some of our solutions
+
 
 # IEEEXtreme 8.0
 Blackgate Penitentiary
